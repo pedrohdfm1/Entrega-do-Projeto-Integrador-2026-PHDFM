@@ -1,0 +1,1 @@
+# Entrega-do-Projeto-Integrador-2026.
