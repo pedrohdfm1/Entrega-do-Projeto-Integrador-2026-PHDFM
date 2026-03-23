@@ -50,7 +50,7 @@ As etapas do projeto serão organizadas da seguinte forma:
 
 ---
 
-## 📈 Ideia Inicial do Dashboard
+##  Ideia Inicial do Dashboard
 
 O dashboard terá como objetivo apresentar os principais insights de forma visual e intuitiva. Algumas ideias incluem:
 
