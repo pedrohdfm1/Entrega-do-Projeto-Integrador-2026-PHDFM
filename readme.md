@@ -10,3 +10,14 @@ Análise de dados sobre saúde mental e burnout em estudantes, com foco na ident
 ##  Integrante
 - Pedro Henrique de Freitas Menezes
 - Pedro Henrique Silgueiro Trimboli Faria
+
+---
+
+#### GRÁFICO PARTE 2
+
+```mermaid
+xychart-beta
+    title "Principais Fatores de Estresse"
+    x-axis ["Carga Acadêmica","Poucas Horas de Sono","Ansiedade","Pressão por Desempenho","Falta de Lazer","Problemas Financeiros","Isolamento Social"]
+    y-axis "Nível de Impacto" 0 --> 100
+    bar [92, 85, 81, 76, 69, 54, 47]
