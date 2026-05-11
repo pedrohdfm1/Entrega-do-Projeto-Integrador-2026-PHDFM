@@ -66,13 +66,3 @@ O dashboard terá como objetivo apresentar os principais insights de forma visua
 - Power BI
 
 ---
-
-## Gráfico — Principais Fatores de Estresse dos Estudantes
-
-```mermaid
-xychart-beta
-    title "Principais Fatores de Estresse"
-    x-axis ["Carga Acadêmica","Poucas Horas de Sono","Ansiedade","Pressão por Desempenho","Falta de Lazer","Problemas Financeiros","Isolamento Social"]
-    y-axis "Nível de Impacto" 0 --> 100
-    bar [92, 85, 81, 76, 69, 54, 47]
-
